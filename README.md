@@ -11,7 +11,4 @@
 ## *Not
 Admin, veritabanına eklenen tüm verileri görebilir ve silebilir, normal kullanıcı sadece kendi eklediği verileri görüntüleyip silebilir.
 
-Admin hesabı
-
-mail : kemal@asd.asd<br>
-şifre: asdasdasd
+Admin hesabı için phpmyadmin'de kullanıcının isAdmin colum'unu 1 yap
