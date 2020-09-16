@@ -1,4 +1,4 @@
-## Özellikler
+# Özellikler
 
 <ul>
     <li>Üye olma</li>
@@ -8,7 +8,7 @@
     <li>Kişileri silme*</li>
 </ul>
 
-# Not
+## Not
 Admin, veritabanına eklenen tüm verileri görebilir ve silebilir, normal kullanıcı sadece kendi eklediği verileri görüntüleyip silebilir.
 
 Admin hesabı
